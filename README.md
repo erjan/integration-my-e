@@ -1,14 +1,14 @@
-# Getting Started with Create React App
+# Ge675465765765tting ljl098098098Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This projljljljljlkjlject was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Availlllllllllllllllllllsdjflsjdflsjldfs able Scripts
 
-In the project directory, you can run:
+243556434In the proj546654765ect dire76576576ctory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+2432432432342R4uns 876876876the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
